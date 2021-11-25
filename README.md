@@ -1,0 +1,9 @@
+- 👋 Olá, eu sou o @ivitorsantos
+- 👀 Sou interessado à desenvolvimento web...
+- 💞️ Amo trabalhar com: HTML, CSS, JavaScript e Python...
+- 📫 Me contate via email: vitor.satostq@gmail.com...
+
+<!---
+ivitorsantos/ivitorsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
